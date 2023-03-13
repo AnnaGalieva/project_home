@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.header {
+    margin-top: 40px;
+    margin-bottom: 84px;
+    padding-right: 500px;
+}
+
+.menu {
+    padding-top: 11px;
+    padding-bottom: 11px;
+    padding-left: 500px;
+    float: right;
+}
+
+.top__content {
+    margin-top: 84px;
+    margin-bottom: 162px;
+}
+
+.title {
+    margin-bottom: 17px;
+}
+
+.subtitle {
+    margin-bottom: 37px;
+    font-weight: normal;
+}
+
+
+/* .top__img {
+    float: right;
+} */
+
+.top__buttons {
+    margin-top: 37px;
+}
+
+.top__logos {
+    padding-top: 97px;
+    padding-bottom: 96px;
+    padding-left: 345;
+    padding-right: 375;
+}
