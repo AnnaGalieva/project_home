@@ -170,6 +170,13 @@
                 font-size: 11px;
                 line-height: 150%;
                 color: #000000;
+                font-family: 'Gilroy-Bold';
+                font-size: 11px;
+                line-height: 150%;
+                color: #000000;
+                border: 0;
+                background-color: #FFFFFF;
+                font-weight: bold;
             }
             
             .item__button {
